@@ -12,6 +12,7 @@ We can use 12V USB-C PD Trigger Module and just solder some wires to the on the 
 This is the right way to do it, because we are delivering 20V and we are using step down converter we can get the right amps and voltage for the console. And using a step-down converter can provide you with a larger current than the input.
 Process Of Wiring: 
 The wiring is very easy to do, you solder 2 wires from the USB-C PD to the Step-Down Converters input and the converters out directly solder 2 wires to the GameCube’s power pins on the connector.
+
 !!!WARNING DON’T EVER PLUG THE USB-C CABLE AND THE ORIGINAL POWER SUPPLY TOGETHER. THIS WILL FRY YOUR CONSOLE!!!
 
 Parts For GameCube USB-C PD Mod:
