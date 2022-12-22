@@ -1,5 +1,6 @@
 # Gamecube-USB-C-PD-MOD
 GameCube USB-C PD (Power Delivery)
+
 Quick explanation:
  The GameCube needs 12V and 3.25 Amps.  So, we have 2 options: 
  
@@ -10,6 +11,7 @@ We can use 12V USB-C PD Trigger Module and just solder some wires to the on the 
 2nd: 
 
 This is the right way to do it, because we are delivering 20V and we are using step down converter we can get the right amps and voltage for the console. And using a step-down converter can provide you with a larger current than the input.
+
 Process Of Wiring: 
 The wiring is very easy to do, you solder 2 wires from the USB-C PD to the Step-Down Converters input and the converters out directly solder 2 wires to the GameCube’s power pins on the connector.
 
