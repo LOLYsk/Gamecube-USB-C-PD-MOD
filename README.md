@@ -16,10 +16,13 @@ The wiring is very easy to do, you solder 2 wires from the USB-C PD to the Step-
 !!!WARNING DON’T EVER PLUG THE USB-C CABLE AND THE ORIGINAL POWER SUPPLY TOGETHER. THIS WILL FRY YOUR CONSOLE!!!
 
 Parts For GameCube USB-C PD Mod:
-XL4015 5A Buck Step Down Converter: https://www.aliexpress.com/item/32213232830.html?spm=a2g0o.cart.0.0.5c9638daOMH0tc&mp=1
+
+XL4015 5A Buck Step Down Converter:
+https://www.aliexpress.com/item/32213232830.html?spm=a2g0o.cart.0.0.5c9638daOMH0tc&mp=1
 
 USB-C Type-C PD Trigger Module 20V:
 https://www.aliexpress.com/item/4001243047536.html?spm=a2g0o.cart.0.0.5c9638daOMH0tc&mp=1
+
 Everything Should Look Like This: 
 ![image](https://user-images.githubusercontent.com/121257614/209207178-29c8984c-05d5-43b4-8d24-649dccb4649f.png)
 Simple Diagram How To Do It:
